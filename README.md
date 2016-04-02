@@ -1,11 +1,11 @@
 # bin
-MAC Shell Configuration Files and Other Scripts
+## MAC Shell Configuration Files and Other Scripts
 
-Step 1:
+### Step 1:
 Clone this repo in your home directory.
 https://github.com/georgepetridis/bin.git
 
-Step 2:
+### Step 2:
 .bash_profile and .bashrc
 Copy and rename the two example files in your home directory by running:
 
