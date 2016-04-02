@@ -3,7 +3,7 @@ MAC Shell Configuration Files and Other Scripts
 
 Step 1:
 Clone this repo in your home directory.
-git clone
+https://github.com/georgepetridis/bin.git
 
 Step 2:
 .bash_profile and .bashrc
