@@ -1,4 +1,4 @@
-echo "functions ready"
+# echo "functions ready"
 # mkdir, cd into it
 mcd () {
     mkdir -p "$1"

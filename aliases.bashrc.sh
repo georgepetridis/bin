@@ -1,4 +1,4 @@
-echo "aliases ready"
+# echo "aliases ready"
 
 # Aliases
 alias sublbrc="subl ~/.bashrc"

@@ -1,4 +1,4 @@
-echo "settings ready"
+# echo "settings ready"
 
 # Parses the current GIT branch.
 parse_git_branch() {
