@@ -1,0 +1,7 @@
+[pull]
+      	default = current
+[push]
+      	default = current
+[user]
+      	email = cuddystone@gmail.com
+        name = George Petridis

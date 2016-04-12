@@ -1,3 +1,8 @@
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
+
 # Loads only the files that end in '.bashrc.sh' if the 'bin' directory exists.
 if [ -d $HOME/bin/ ]; then
     for file in $HOME/bin/*.bashrc.sh; do
